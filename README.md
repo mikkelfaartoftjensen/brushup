@@ -1,6 +1,8 @@
 Markup and Style Brush Up
 =========================
 
+## Hello World. 
+
 **HTML5 and CSS brush up: animation workshop**
 
 * module: intro - spring 2019.
@@ -18,4 +20,3 @@ hello
 
 
 / petj
- 
